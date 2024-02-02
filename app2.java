@@ -4,6 +4,8 @@ public class MYapp {
         System.out.println("Java app pulled and build by jenkins");
         System.out.println("Hello java and jenkins");
         System.out.println("Hello java and jenkins2");
+        System.out.println("jenkins2");
+
         
 
 
